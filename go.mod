@@ -278,4 +278,6 @@ require (
 	tags.cncf.io/container-device-interface v1.1.0 // indirect
 )
 
+replace github.com/ubiquiti-community/go-unifi => github.com/lenalebt/go-unifi v0.0.0-20260414133752-1ea6ea611819
+
 tool github.com/hashicorp/terraform-plugin-docs/cmd/tfplugindocs
